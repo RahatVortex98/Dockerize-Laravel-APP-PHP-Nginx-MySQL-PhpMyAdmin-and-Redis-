@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 <h3 align='center'>Create Docker File </h3>
 
 
@@ -260,4 +259,5 @@ Access summary
         
 <p align='center'><img width="48%"  src="https://github.com/user-attachments/assets/9533433d-7075-4007-92a9-beac06fb9247" />
 </p>
->>>>>>> cf1d749f7e87d4f5b11b2cc663d248d5d5f9b3b6
+
+
